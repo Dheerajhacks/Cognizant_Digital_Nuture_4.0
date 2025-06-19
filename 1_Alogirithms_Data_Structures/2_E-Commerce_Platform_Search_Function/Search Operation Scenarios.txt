@@ -1,0 +1,13 @@
+The most commonly used search algorithms are linear search and binary search
+
+For linear search:- 
+
+Best case - O(1) -- if the element is present in the first position
+Average case - O(n)
+Worst case - O(n)
+
+
+For binary search:-
+Best case - O(1) -- if the element is present at the middle
+Average case - O(log(n))
+Worst case - O(log(n))
