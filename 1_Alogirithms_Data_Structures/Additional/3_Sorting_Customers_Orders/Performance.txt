@@ -1,0 +1,9 @@
+Quick sort
+    Time Complexity:- O(nlogn)
+    Space Complexity:- O(logn)
+
+Bubble Sort
+    Time Complexity:- O(n^2)
+    Space Complexity:- O(1)
+
+Quick sort is faster due to logarithmic recurcion. Instead of iterating throughthe whole array everytime it makes the partitons and performs the iteration until hte base conditions are met, unlike bubble sort, which iterates the whole array everytime.

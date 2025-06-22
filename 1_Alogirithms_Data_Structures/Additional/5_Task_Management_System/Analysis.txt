@@ -1,0 +1,11 @@
+Time Complexities:-
+    Add:- O(1)
+    Delete:- O(n)
+    Search:- O(n)
+    Traverse:- O(n)
+
+Advantages over array:-
+    -Dynamically allocates the memory of space can be minimized.
+    -Easy to operate
+    -Add and Delete operations are easy compared to array
+    -Able to handle large data

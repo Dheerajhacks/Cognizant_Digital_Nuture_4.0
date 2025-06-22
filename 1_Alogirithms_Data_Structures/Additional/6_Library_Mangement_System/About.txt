@@ -1,0 +1,2 @@
+Linear search - linear search checks each element until it reaches the end
+Binary search - Binary search is applied on sorted arrays, it divides the search space making the search operation more optimized.

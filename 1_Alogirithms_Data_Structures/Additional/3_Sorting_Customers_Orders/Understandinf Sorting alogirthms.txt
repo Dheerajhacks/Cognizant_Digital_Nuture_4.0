@@ -1,0 +1,26 @@
+Bubble sort:-
+    In bubble sort the consecutive adjacent pairs are compared with each other, if the element with small index is geater than the element with large index, the elements are swapped.
+    After the one complete iteration over the array, the largest element moves to the end. It is also called as sinking sort.
+    It is simple to implement and easy to understand. As it takes more time to run, it is not preffered.
+    Time Complexity :- O(n^2)
+    Space Complexity :- O(1)
+
+Insertion sort:-
+    In insertion sort there are two parts of the array, sorted part and unsorted part. Initially the sorted part contains only the first element.
+    For every iteration over the unsorted part, the first element is compared with the sorted array and inserted in its respective sorted position.
+    Time Complexity :- O(n^2)
+    Space Complexity :- O(1)
+
+Quick sort:-
+    Quick sort is a divide and conquer based algorithm. 
+    Let's say, there is an element called pivot in the array in which the left elements are always smaller than the pivot irrespective of their order and the rightside elements are greater than the pivot irrespective of the order.
+    So for every iteration over the array, quick sort finds the pivot elements and recursively applied to the left and right part of the pivot element.
+    Time Complextiy(average) : O(nlogn)
+                    (worst)  : O(n)
+    Space complexity         : O(logn)
+
+Merge Sort:-
+    Merge sort algorithm recursively splits the array into two halfs. Then it merges the array in the by sorting them.
+    Time Complexity :- O(nlogn)
+    Space Complexity :- O(n)
+

@@ -1,0 +1,12 @@
+In a Inventory management System there are different operations like finding a product, adding, deleteing etc.
+By using correct data structures we can reduce the time complexity of each case.
+
+For this problem we can use ArrayList, HashMap, TreeMap.
+
+Analysis:-
+			HashMap		ArrayList
+
+Add			O(1)			O(1)
+Delete		O(1)			O(n)
+Update		O(1)			O(n)
+Traverse		O(n)			O(n)

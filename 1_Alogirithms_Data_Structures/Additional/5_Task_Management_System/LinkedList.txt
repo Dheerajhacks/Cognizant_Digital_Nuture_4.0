@@ -1,0 +1,14 @@
+Linked list:-
+    A linked list is a data structure which stores the elements in non-contigous memory locations which connects them with pointers
+    The main components are:- Head, Node, Tail.
+
+Types of Linked List:-
+
+    Singly Linkedl List:-
+        This is the most common type of linked list which is uni directional. It has mainly two fields, data field and Address field.
+        The address field stores the address of the next node.
+        Traversal is possible only in one direction.
+
+    Doubly Linked List:-
+        It is a bi derectional linked list. It has 3 fields - data filed, left address(stores the address of the left node) and right address field(stores the address of the right node).
+        Traversal is possible in both directions.

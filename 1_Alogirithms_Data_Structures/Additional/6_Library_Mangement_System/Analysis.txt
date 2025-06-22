@@ -1,0 +1,7 @@
+Time Complexities:-
+
+    Linear search - O(n)
+    Binary search - O(logn) + O(nlogn) {if data is not sorted}
+
+Linear search can be used for small datasets
+Binary search can be used for large sorted datasets as it effeciently eliminates the unwated part.

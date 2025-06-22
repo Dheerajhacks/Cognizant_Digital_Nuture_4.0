@@ -1,0 +1,5 @@
+Representation of arrays:
+
+Arrays are contigous memory locations which have fixed size.
+The elements are accessed by their index starting from 0 to (n-1).
+It is easy to implement.

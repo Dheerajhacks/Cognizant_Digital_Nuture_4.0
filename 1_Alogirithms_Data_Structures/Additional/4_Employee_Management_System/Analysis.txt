@@ -1,0 +1,10 @@
+Time Complexities of Operations:
+    Add :- O(n)
+    Delete :- O(n)
+    Search:- O(n)
+    Traverse :- O(n)
+
+Limitations of Array
+    -The size of the array is fixed, so if extra space is required a new array has to initialized.
+    -Not suitable to handle large data
+    -The Add and delete Operations take more time in arrays
