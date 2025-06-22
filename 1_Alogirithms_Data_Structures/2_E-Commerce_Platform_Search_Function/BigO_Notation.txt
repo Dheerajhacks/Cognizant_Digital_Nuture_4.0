@@ -1,7 +1,0 @@
-Big O Notation:
-
-It is a Mathematical notation which is used to determine the time and space complexity of an algorithm for a given input n.
-It gives the upper bound of an algorithm i.e the maximum space and time complexity of an algorithm
-
-it is denoted by - O(f(n)).
-Ex : the time complexity of a binary search algorithm is O(log(n)).

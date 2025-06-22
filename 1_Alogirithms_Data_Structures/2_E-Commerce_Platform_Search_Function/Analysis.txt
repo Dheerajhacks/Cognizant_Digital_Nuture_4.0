@@ -1,9 +1,0 @@
-Out of the two searches - linear search and binary search.
-
-binary search is effecient in searching the products as the quantity will be large.
-
-Linear search uses O(n) time. It is easy to implement. It works fine with small datasets.
-
-Binary search takes O(log(n)) to sort the array +  O(log(n)) to search. 
-When search queries are more.. binary search effeciently finds the element.
-However it is a bit complex to implement as compared to linear search.
