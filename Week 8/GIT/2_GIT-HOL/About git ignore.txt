@@ -1,0 +1,8 @@
+About git ignore
+.gitignore is a text file in the repository that tells Git which files or folders to ignore.
+THe files that are added in it are ignored, and are not tracked.
+
+How it works
+The .gitignore file contains patterns.
+When a command git status or git add is run, Git checks each file against these patterns.
+If a file matches a pattern and is not already tracked, Git ignores it.
