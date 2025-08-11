@@ -1,0 +1,4 @@
+echo "Hello master" > hello.xml
+git add hello.xml
+git commit -m "Added hello fike to master"
+git diff master GitWork

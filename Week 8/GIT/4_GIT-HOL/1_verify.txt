@@ -1,0 +1,7 @@
+cd MergingDemo
+git init
+git status
+git checkout -b GitWork
+echo "Hello message to GitWork" > hello.xml
+git add hello.xml
+git commit -m "Added hello file in GitWork"
